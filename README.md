@@ -1,17 +1,12 @@
-# Quartz v5
+# Math graph
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+I'm studying math and I have a need to concretize things down to their generative principles. If I cannot do so, I get lost.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+> “Principles make it simple.” - Leonard Peikoff
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+This is my attempt at doing to.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+It's made via Quartz: https://quartz.jzhao.xyz/
 
-## Sponsors
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+
