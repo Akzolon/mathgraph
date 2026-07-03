@@ -1,9 +1,27 @@
 @use "./variables.scss" as *;
 
-body {
-  background-color: #0b0f13;
+// Only apply the dark color when the site is actually in dark mode
+:root[saved-theme="dark"], 
+[data-theme="dark"], 
+body.dark {
+  --color-base-00: #0b0f13 !important;
+  --background-primary: #0b0f13 !important;
+  
+  // If standard body needs a push in dark mode:
+  background-color: #0b0f13 !important;
 }
 
+// (Optional) If you also want to control the light mode background cleanly:
+:root[saved-theme="light"], 
+[data-theme="light"], 
+body.light {
+  --color-base-00: #faf8f8 !important; 
+  --background-primary: #faf8f8 !important;
+  
+  background-color: #faf8f8 !important;
+}
+
+// Keep your footer hidden as usual
 footer p {
   display: none;
 }
