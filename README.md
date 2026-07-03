@@ -6,7 +6,8 @@ I'm studying math and I have a need to concretize things down to their generativ
 
 This is my attempt at doing to.
 
-It's made via Quartz: https://quartz.jzhao.xyz/
+I have no experience with Github or Quartz so if something breaks, hope that [the robot](https://en.wikipedia.org/wiki/Large_language_model) will know how to fix it.
+
 
 
 
