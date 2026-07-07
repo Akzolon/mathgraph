@@ -1,5 +1,5 @@
 ---
-title: Category / Set
+title: Category or Set
 ---
 A [[Abstraction|mental integration]] of [[Object or Element|objects/elements]] sharing a relevant aspect of [[mathgraph/content/Identity|Identity]]. 
 
