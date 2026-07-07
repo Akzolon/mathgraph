@@ -1,7 +1,8 @@
 ---
 title: Object / Element
 ---
-An [[mathgraph/content/Existence|Existent]] with an undefined [[mathgraph/content/Identity|Identity]]. 
+
+An [[Existence|Existent]] with an undefined [[Identity|Identity]]. 
 
 Particular objects/elements belonging to the same [[Category or Set|category/set]] share the same aspects of [[mathgraph/content/Identity|Identity]]. 
 

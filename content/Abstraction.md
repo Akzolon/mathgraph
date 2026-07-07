@@ -1,4 +1,3 @@
 ---
 title: Abstraction
-tags:
 ---

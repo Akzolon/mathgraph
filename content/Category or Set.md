@@ -1,14 +1,15 @@
 ---
-title: Category or Set
+title: Category / Set
 ---
-A [[Abstraction|mental integration]] of [[Object or Element|objects/elements]] sharing a relevant aspect of [[mathgraph/content/Identity|Identity]]. 
+
+A [[Abstraction|mental integration]] of [[Object or Element|objects/elements]] sharing a relevant aspect of [[Identity|Identity]]. 
 A category or set focuses primarily on [[Process of Differentiation|differentiation]] of particular [[Object or Element|objects/elements]] it subsumes.
 
 An example set:
 
 $\{Dog, Cat, Mouse\}$
 
-
+---
 
 In the example set, the set is composed of two parts:
 
@@ -22,7 +23,7 @@ b)
 
 $\{\}$
 
-
+---
 
 We can then study the set in the said two ways.
 
@@ -47,8 +48,7 @@ Questions like:
 
 are questions about the [[Common nature of a set|common nature of a set]].
 
-
-
+---
 
 
 
