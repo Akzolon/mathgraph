@@ -3,7 +3,7 @@ title: Category / Set
 ---
 
 A [[Abstraction|mental integration]] of [[Object or Element|objects/elements]] sharing a relevant aspect of [[Identity|Identity]]. 
-A category or set focuses primarily on [[Process of Differentiation|differentiation]] of particular [[Object or Element|objects/elements]] it subsumes.
+A category or set focuses primarily on [[Process of element or object Differentiation|differentiation]] of particular [[Object or Element|objects/elements]] it subsumes.
 
 An example set:
 
@@ -32,7 +32,7 @@ a)
 
 Questions like: 
 - What kind of [[Object or Element|entities]] compose this set or category?
-- Are there [[mathgraph/content/Identity|distinguishing characteristics]] which warrants their grouping?
+- Are there [[Identity|distinguishing characteristics]] which warrants their grouping?
 - Do they fit a wider category?
 
 are questions about the [[Collective nature of a set|collective nature of a set]].

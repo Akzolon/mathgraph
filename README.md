@@ -4,9 +4,13 @@ I'm studying math and I have a need to concretize things down to their generativ
 
 > “Principles make it simple.” - Leonard Peikoff
 
-This is my attempt at doing to.
+I'm not attempting to reconstruct mathematics from formal axioms.
 
-I have no experience with Github or Quartz so if something breaks, hope that [the robot](https://en.wikipedia.org/wiki/Large_language_model) will know how to fix it.
+I'm attempting to reconstruct mathematical concepts from the smallest network of objectively justified generative dependencies grounded ultimately in the axioms of existence and identity.
+
+This is my attempt at doing so. 
+
+I have no experience with Github or Quartz so if something breaks, let's hope that [the robot](https://en.wikipedia.org/wiki/Large_language_model) will know how to fix it.
 
 
 
