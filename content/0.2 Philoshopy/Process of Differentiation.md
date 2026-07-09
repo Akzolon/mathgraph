@@ -1,21 +1,10 @@
 ---
 title: Differentiation
 ---
-the process of forming distinctions based upon inferred aspects of identity.
+An [[Habit|automated]] cognitive process of isolating [[Percept|a percept]], [[Concept|a concept]] or [[Category or Set|a category/set]] from others based on an [[Implicit Identification|implicitly]] or an [[Explicit Identification|explicitly]] identified [[Contrast in Identity|contrast]] in their [[identity]].
 
 
-contrast-isolation based on identity
 
-The cognitive process of isolating [[Percept|a percept]], [[Concept|a concept]] or [[Category or Set|a category/set]] from others based on an [[Implicit Identification|implicitly]] or an [[Explicit Identification|explicitly]] identified [[Contrast in Identity|contrast]] in their [[identity]].
-
-
-Implicit Identification
-- 
-
-Explicit identification
-- 
-
-implicit knowledge is available to you but which you have not yet grasped consciously And by “grasped consciously” I mean: brought into conceptual terms.
 
 
 

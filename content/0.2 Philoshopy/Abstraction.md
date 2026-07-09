@@ -2,7 +2,7 @@
 title: Abstraction
 ---
 
-A [[cognitive rule]] derived by [[Process of Abstraction|the method of differentiation and integration]] held in the mind as a [[Category or Set|categoty/set]] or a [[concept]].
+A  [[cognitive rule]] derived by [[Process of Abstraction|the method of differentiation and integration]] held in the mind as a [[Category or Set|category/set]] or a [[concept]].
 
 
 

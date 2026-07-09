@@ -10,5 +10,3 @@ a)
 b) 
 - [[Process of Integration|integrating]] it into an [[Abstraction]] by the [[Conceptual Common Denominator]].
 
-
-“The characteristic(s) reducible to a unit of measurement, by means of which man differentiates two or more existents from other existents possessing it.
