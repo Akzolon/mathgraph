@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"949731918eff7dcc","x":-260,"y":60,"width":250,"height":60,"color":"2","type":"text","text":"Collective Nature of a set"},
+		{"id":"2918b54dc416cf60","type":"text","text":"Common Nature of a set","x":100,"y":60,"width":250,"height":60,"color":"2"},
+		{"id":"804d8745a159db0a","x":100,"y":360,"width":250,"height":60,"color":"3","type":"text","text":"Cardinality"},
+		{"id":"f9094c32971f154f","x":-260,"y":360,"width":250,"height":60,"color":"3","type":"text","text":"Relations"},
+		{"id":"c48961dcdef15463","x":100,"y":660,"width":250,"height":60,"color":"6","type":"text","text":"Natural Numbers"},
+		{"id":"e8b5647aee70a1b7","type":"text","text":"Functions","x":-260,"y":660,"width":250,"height":60,"color":"6"},
+		{"id":"6e811f88634218ac","x":-80,"y":-240,"width":250,"height":60,"color":"1","type":"text","text":"Category/Set"}
+	],
+	"edges":[
+		{"id":"35daab3655f77d5e","fromNode":"6e811f88634218ac","fromSide":"bottom","toNode":"949731918eff7dcc","toSide":"top"},
+		{"id":"12dc87575a9ebc2e","fromNode":"6e811f88634218ac","fromSide":"bottom","toNode":"2918b54dc416cf60","toSide":"top"},
+		{"id":"fca75c08f57c91dc","fromNode":"2918b54dc416cf60","fromSide":"bottom","toNode":"804d8745a159db0a","toSide":"top"},
+		{"id":"53b367b8361efd3d","fromNode":"949731918eff7dcc","fromSide":"bottom","toNode":"f9094c32971f154f","toSide":"top"},
+		{"id":"37cddde7bcafc166","fromNode":"804d8745a159db0a","fromSide":"bottom","toNode":"c48961dcdef15463","toSide":"top"},
+		{"id":"ba84c1a3d1ac8722","fromNode":"f9094c32971f154f","fromSide":"bottom","toNode":"e8b5647aee70a1b7","toSide":"top"}
+	]
+}

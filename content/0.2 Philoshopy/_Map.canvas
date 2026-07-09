@@ -1,0 +1,18 @@
+{
+	"nodes":[
+		{"id":"4905135a4eb291be","x":-860,"y":-260,"width":680,"height":420,"type":"group","label":"Process of Abstraction"},
+		{"id":"f75e363a12e89233","type":"group","x":160,"y":-260,"width":420,"height":420,"label":"Abstraction"},
+		{"id":"98827b7aa72727ef","x":-1280,"y":-140,"width":250,"height":60,"type":"text","text":"A Percept"},
+		{"id":"2f9c90e7016316ae","x":-1280,"y":-10,"width":250,"height":60,"type":"text","text":"A concept"},
+		{"id":"3f5ec4ee452ab966","x":240,"y":-140,"width":250,"height":60,"type":"text","text":"Category/Set"},
+		{"id":"a98697113a86ab18","x":240,"y":-40,"width":250,"height":60,"type":"text","text":"Concept"},
+		{"id":"9060b9acd0057d5b","x":-480,"y":-80,"width":250,"height":60,"type":"text","text":"Integration"},
+		{"id":"6c8b17733e38ab04","x":-800,"y":-80,"width":250,"height":60,"type":"text","text":"Differentiation"}
+	],
+	"edges":[
+		{"id":"cf7d9bdfdd25aee0","fromNode":"98827b7aa72727ef","fromSide":"right","toNode":"6c8b17733e38ab04","toSide":"left"},
+		{"id":"388bdb230d7ec8a0","fromNode":"2f9c90e7016316ae","fromSide":"right","toNode":"6c8b17733e38ab04","toSide":"left"},
+		{"id":"0387043d4724f005","fromNode":"6c8b17733e38ab04","fromSide":"right","toNode":"9060b9acd0057d5b","toSide":"left"},
+		{"id":"b41437f575295022","fromNode":"9060b9acd0057d5b","fromSide":"right","toNode":"f75e363a12e89233","toSide":"left"}
+	]
+}

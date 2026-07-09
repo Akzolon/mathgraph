@@ -2,24 +2,9 @@
 title: Abstraction
 ---
 
-A [[cognitive rule]] derived by [[|the method of differentiation and integration]] held in the mind as a single [[Category or Set|categoty/set]] or a [[concept]] and used for identification.
-
-
----
-W.I.P.
-
-
-a single mental unit representing an open-ended integration of existents that share a specific attribute of identity, with their measurements omitted.
+A [[cognitive rule]] derived by [[Process of Abstraction|the method of differentiation and integration]] held in the mind as a [[Category or Set|categoty/set]] or a [[concept]].
 
 
 
-
- The process of identification of [[Percept|a percept]] or [[Concept|a concept]] 
- 
- differentiated by measurment-omission and 
- 
- integrated by the conceptual common denominator.
-
-
-THIS IS NOT A PROCESS, noun MENTAL INTEGRATION =/= THINKING
-
+> [!Question] AI Asks: Can a cognitive rule exist and guide a human mind if the person cannot explicitly state the rule in words? (Objectivism and Praxeology both say yes: an infant operates by implicit cognitive rules of perception and association long before it can formulate the explicit rules of logic). This leaves an open question: 
+> By what mechanism does an implicit, sub-conscious policy of focus transform into an explicit, linguistically defined rule?

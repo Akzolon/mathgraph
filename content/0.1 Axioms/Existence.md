@@ -1,5 +1,5 @@
 ---
-title: Axiom of Existence
+title: Existence
 ---
 
 > [!quote] "Introduction to Objectivist Epistemology" Leonard Peikoff, pg. 109
