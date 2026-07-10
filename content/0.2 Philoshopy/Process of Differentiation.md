@@ -1,7 +1,7 @@
 ---
 title: Differentiation
 ---
-An [[Habit|automated]] cognitive process of isolating [[Percept|a percept]], [[Concept|a concept]] or [[Category or Set|a category/set]] from others based on an [[Implicit Identification|implicitly]] or an [[Explicit Identification|explicitly]] identified [[Contrast in Identity|contrast]] in their [[identity]].
+A [[Tropism|goal-orinted]] cognitive process of isolating [[Percept|a percept]], [[Concept|a concept]] or [[Category or Set|a category/set]] from others based on an [[Perceptual Recognition|implicitly recognized]] [[Identity]] or an [[Cognitive Identification|explicitly identified]] [[property]].
 
 
 
