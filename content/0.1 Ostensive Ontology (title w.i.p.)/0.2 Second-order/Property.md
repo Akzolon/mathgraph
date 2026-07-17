@@ -1,4 +1,15 @@
 ---
 title:
 ---
-A particular aspect of an [[Object or Element|entity's]] [[Identity]]
+### Definition
+
+A particular aspect of an [[Entity|entity's]] [[Identity]]
+
+### Further Structure
+
+-
+
+### Questions
+
+-
+

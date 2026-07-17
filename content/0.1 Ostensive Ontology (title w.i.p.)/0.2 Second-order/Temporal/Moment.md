@@ -1,9 +1,9 @@
 ---
-title: Action
+title:
 ---
 ### Definition
 
-Purposeful behaviour. 
+A single [[unit]] of [[time]].
 
 ### Further Structure
 

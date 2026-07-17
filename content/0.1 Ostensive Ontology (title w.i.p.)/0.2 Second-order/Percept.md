@@ -1,4 +1,15 @@
 ---
 title: Percept
 ---
-An [[Object or Element|object]] of perception possessing [[Identity]].
+### Definition
+
+An [[Entity|object]] of perception.
+
+### Further Structure
+
+-
+
+### Questions
+
+-
+

@@ -1,9 +1,9 @@
 ---
-title: Action
+title:
 ---
 ### Definition
 
-Purposeful behaviour. 
+A connected sequence of [[Moment|moments]].
 
 ### Further Structure
 

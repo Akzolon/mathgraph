@@ -1,9 +1,9 @@
 ---
-title: Action
+title:
 ---
 ### Definition
 
-Purposeful behaviour. 
+[[Standard]] of [[change]]
 
 ### Further Structure
 

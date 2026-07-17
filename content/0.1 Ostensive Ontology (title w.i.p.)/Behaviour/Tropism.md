@@ -1,4 +1,15 @@
 ---
 title: Goal-orinted behaviour
 ---
-Goal-orinted behaviour.
+### Definition
+
+Goal-oriented behavior.
+
+### Further Structure
+
+-
+
+### Questions
+
+-
+
