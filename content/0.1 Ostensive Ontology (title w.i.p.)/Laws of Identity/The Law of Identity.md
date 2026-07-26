@@ -5,6 +5,10 @@ title:
 
 A is A.
 
+or
+
+Every thing is what it is.
+
 ### Further Structure
 
 -
