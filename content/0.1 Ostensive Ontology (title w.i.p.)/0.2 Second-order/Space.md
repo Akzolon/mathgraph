@@ -3,7 +3,7 @@ title:
 ---
 ### Definition
 
-Result of the multiplicity of an [[Entity|entity]] in a [[Category or Set]]. (Bad definition!)
+Result of the multiplicity of an [[Entity|entity]] in a [[Group]]. (Bad definition!)
 
 ### Further Structure
 

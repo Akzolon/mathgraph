@@ -3,7 +3,7 @@ title:
 ---
 ### Definition
 
-Behaviour acquired through [[Action]] and internalized to resemble a [[Reaction]].
+Behaviour acquired through [[(Human) Action]] and internalized to resemble a [[Reaction]].
 
 ### Further Structure
 

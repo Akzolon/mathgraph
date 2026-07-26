@@ -3,7 +3,7 @@ title:
 ---
 ### Definition
 
-A [[Abstraction|mental integration]] of [[Entity|objects/elements]] according to their shared [[common property]].
+A [[Abstraction|mental integration]] made of [[Entity|objects/elements]] according to their shared [[Common property]].
 
 ### Further Structure
 

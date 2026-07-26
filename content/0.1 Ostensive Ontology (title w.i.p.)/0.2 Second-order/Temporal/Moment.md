@@ -3,7 +3,7 @@ title:
 ---
 ### Definition
 
-A single [[unit]] of [[time]].
+A single [[Unit]] of [[time]].
 
 ### Further Structure
 

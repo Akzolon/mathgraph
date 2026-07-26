@@ -3,7 +3,7 @@ title:
 ---
 ### Definition
 
-A [[Category or Set|set]] of [[Property|properties]] possessed by an [[entity]].
+An [[Process of conceptual identification|identified]] [[Group|set]] of [[Property|properties]] possessed by an [[entity]].
 
 ### Further Structure
 

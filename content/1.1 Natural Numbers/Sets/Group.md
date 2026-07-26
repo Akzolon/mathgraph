@@ -1,9 +1,9 @@
 ---
-title: Category / Set
+title: Group
 ---
 ### Definition
 
-A [[Abstraction|mental integration]] of [[Entity|objects/elements]] according to their shared [[collective property]].
+A [[Abstraction|mental integration]] of [[Entity|objects/elements]] according to their shared [[Collective property]].
 
 ### Math
 
@@ -35,7 +35,7 @@ a)
 Questions like: 
 - What kind of [[Entity|entities]] compose this set or category?
 - Are there [[Property|distinguishing characteristics]] which warrants their grouping?
-- Do they fit a wider category?
+- Do they fit a [[Superset|wider set|]]?
 
 are questions about the [[Collective property|collective nature of a set]].
 
@@ -45,7 +45,7 @@ b)
 
 Questions like: 
 - How [[Cardinality|many members compose]] this set or category?
-- Is the aforementioned set [[finite]]?
+- Is the aforementioned set [[Cardinal Finity|finite]]?
 - Is the aforementioned set [[empty set|empty]]?
 
 are questions about the [[Common property|common nature of a set]].
@@ -53,8 +53,10 @@ are questions about the [[Common property|common nature of a set]].
 ---
 
 
+
 ### Further Structure
 
+(Odyssey)
 From the [[Common property|common nature of a single set]].
 -> [[Cardinality]]
 
@@ -63,10 +65,6 @@ From the [[Common property|common nature of a single set]].
 ### Questions
 
 
-> [!Question] Open Question
-> What when a set is empty?
-
-> [!Question] Open Question
-> Could it be more fundamentally understood as a type of relationship between the composing constituents?
-
+> [!Question] Me
+> Could it be that there's no epistemological difference between a concept or a set? Could it be a single thing observed from different angels? What reason do I have for splitting them apart?
 
