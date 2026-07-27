@@ -1,7 +1,8 @@
 ---
 title: Existence
-tags:
-  - axiom
+type: node
+domain: math
+status: stable
 ---
 ### Definition
 

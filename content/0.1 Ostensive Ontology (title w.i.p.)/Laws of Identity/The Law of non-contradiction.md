@@ -1,5 +1,7 @@
 ---
-title: Non-contradiction
+title:
+tags:
+  - axiom
 ---
 ### Definition
 

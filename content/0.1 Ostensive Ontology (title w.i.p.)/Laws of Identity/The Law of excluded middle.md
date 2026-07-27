@@ -1,5 +1,7 @@
 ---
-title: Excluded Middle
+title:
+tags:
+  - axiom
 ---
 ### Definition
 
