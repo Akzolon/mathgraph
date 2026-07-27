@@ -1,8 +1,9 @@
 ---
 title: Existence
-type: node
-domain: math
-status: stable
+tags:
+  - TYPE/NODE
+  - DOMAIN/MATH
+  - STATUS/STABLE
 ---
 ### Definition
 
