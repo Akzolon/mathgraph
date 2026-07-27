@@ -3,7 +3,7 @@ title:
 ---
 ### Definition
 
-A member of a [[Group|set]] regarded as a separate constituent of that group. (FLOATING DEFINITION)
+A [[Product of a Function|product]] of [[Process of Differentiation|differentiation]] applied to a [[group]]
 
 ### Further Structure
 
@@ -11,8 +11,7 @@ A member of a [[Group|set]] regarded as a separate constituent of that group. (F
 
 ### Questions
 
-> [!Question] Me
-> Regarded as a separate by what standard?
+
 
 
 

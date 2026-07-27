@@ -3,7 +3,7 @@ title:
 ---
 ### Definition
 
-A [[Common property|common property]] of a [[Group|set]] which describes the number of elements the [[Group|set]] contains.
+A [[Common property|common property]] of a [[Group|set]] which describes the amount of elements the [[Group|set]] contains.
 
 ### Math
 
