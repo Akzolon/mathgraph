@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: akzolon.github.io/mathgraph
+  baseUrl: akzoteles.github.io/architecture
   ignorePatterns:
     - private
     - templates

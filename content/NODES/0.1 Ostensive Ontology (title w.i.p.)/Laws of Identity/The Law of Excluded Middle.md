@@ -1,7 +1,6 @@
 ---
 title:
 tags:
-  - axiom
 ---
 ### Definition
 
