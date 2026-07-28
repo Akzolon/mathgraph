@@ -1,4 +1,4 @@
-# Conceptual Architecture
+# The Conceptual Architecture
 
 > *One Graph to rule them all, One Graph to find them,*  
 > *One Graph to bring them all, and in the structure bind them.*

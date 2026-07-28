@@ -1,7 +1,14 @@
 ---
-title: Mathgraph
+title: The Conceptual Architecture
 ---
 
-Mathgraph is a graph of all of topics in mathematics (and epistemology) I've studied so far. It contains everything from short notes, references and large pieces of text. The graph itself will be updated as I go along and learn new stuff. 
+Knowledge appears fragmented.
 
+Mathematics, logic, physics, philosophy, economics, and the sciences are usually studied as separate domains, each with their own language and foundations.
+
+But concepts do not exist in isolation.
+
+Every idea depends on something more fundamental. Every theory rests upon prior principles. Every abstraction emerges from the structure beneath it.
+
+This is an attempt to uncover the structure beneath it all.
 
