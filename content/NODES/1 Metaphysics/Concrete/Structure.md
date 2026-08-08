@@ -7,7 +7,7 @@ Domain:
 ---
 ### Definition
 
-The way an [[Existence|Existing]] [[Identity|Particular]] is [[Entity|Something]].
+The way an [[Existence|Existing]] [[Identity|Particular]] is Something.
 
 ### Elaboration
 
@@ -23,6 +23,7 @@ The fact that something in particular is particular in a certain way.
 ### Builds towards
 
 -> [[State]]
+-> [[Schema]]
 
 -> [[The Law of Non-contradiction]]
 

@@ -6,7 +6,7 @@ Domain:
 ---
 ### Definition
 
-A [[Common property|common property]] of a [[Group|set]] which describes the [[unboundedness]] of a [[Group|set's]] [[Cardinality]].
+A [[Common property|common property]] of a [[Group|set]] which describes the [[unboundedness]] of a [[Group|set's]] [[Absolute Cardinality]].
 
 ### Elaboration
 
@@ -14,7 +14,7 @@ Take an example [[Group|set]]:
 
 $\mathbb{N}$
 
-It's [[Cardinality]] is [[unboundedness|unbound]].
+It's [[Absolute Cardinality]] is [[unboundedness|unbound]].
 
 
 Therefore, it is infinite.
@@ -24,7 +24,7 @@ Therefore, it is infinite.
 -> [[Common property]]
 -> [[Group]]
 -> [[unboundedness]]
--> [[Cardinality]]
+-> [[Absolute Cardinality]]
 
 ### Builds towards
 

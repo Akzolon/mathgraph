@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-A [[Collective property]] of two or more [[Entity|entities]] whereby some [[Property]] or the [[State]] of one [[Entity]] is [[Connection|connected]], with some [[Property]] or the [[State]] of another.
+A [[Collective property]] of two or more [[Structured Existent|Existents]] whereby some [[Property]] or the [[Structured Configuration|Configuration]] of one [[Structured Existent|Existents]] is [[Connection|connected]], with some [[Property]] or the [[Structured Configuration|Configuration]] of another.
 
 ### Elaboration
 

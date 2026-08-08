@@ -13,18 +13,18 @@ An [[Existence|existent]] possessing a [[Identity|particular]] [[Structure]].
 
 ### Elaboration
 
--
+-> [[]]
 
 ### Rests upon
 
--> [[Existence]]
--> [[Identity]]
--> [[Structure]]
+-
 
 ### Builds towards
 
 -> [[Universe]]
 -> [[Percept]]
+
+-> [[Structured Existent]]
 
 (Epistemologically)
 ~> [[Group]]

@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-A process in which one [[Entity]] alters its own [[State]] or the [[State]] of another [[Dependency|dependent]] entity through [[Interaction]], according to their respective [[State|states]].
+A sequence in which one [[Entity]] alters its own [[State]] or the [[State]] of another [[Dependency|dependent]] entity through [[Interaction]], according to their respective [[State|states]].
 
 ### Elaboration
 

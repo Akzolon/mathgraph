@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-An [[Process of Conceptual Identification|identified]] [[Group|set]] of [[Property|properties]] possessed by an [[Entity]], representing an [[Entity|entity's]] [[State]].
+An [[Process of Conceptual Identification|identified]] [[Group|set]] of [[Ontological Property|ontological properties]] possessed by an [[Entity]], representing an [[Entity|entity's]] [[State]].
 
 ### Elaboration
 
@@ -19,7 +19,7 @@ An [[Process of Conceptual Identification|identified]] [[Group|set]] of [[Proper
 
 -> [[Process of Conceptual Identification]]
 -> [[Group]]
--> [[Property]]
+-> [[Ontological Property]]
 -> [[Entity]]
 
 ### Builds towards

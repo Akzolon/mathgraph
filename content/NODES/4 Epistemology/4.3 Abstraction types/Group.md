@@ -47,7 +47,7 @@ b)
 - Studying the set [[Common property|as a single whole]], what can we infer from it?
 
 Questions like: 
-- How [[Cardinality|many members compose]] this set or category?
+- How [[Absolute Cardinality|many members compose]] this set or category?
 - Is the aforementioned set [[Cardinal Finity|finite]]?
 - Is the aforementioned set [[Empty Set|empty]]?
 
@@ -68,8 +68,10 @@ Set types:
 -> [[Superset]]
 
 Sets:
+
 -> [[Ostensive Numbers]]
 -> [[Identified Universe]]
+
 -> [[Natural Numbers]]
 -> [[Whole Numbers]]
 

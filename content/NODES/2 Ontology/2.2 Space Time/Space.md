@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-A [[Necessarily Complete Dependency]] of [[multiplicity]] used as a [[standard]] of [[multiplicity]].
+A [[Necessarily Complete Dependency]] of [[multiplicity]] used as a [[Standard]] of [[multiplicity]].
 
 ### Elaboration
 
@@ -20,7 +20,7 @@ A [[Necessarily Complete Dependency]] of [[multiplicity]] used as a [[standard]]
 -> [[multiplicity]]
 -> [[Necessarily Complete Dependency]]
 
--> [[standard]]
+-> [[Standard]]
 
 ### Builds towards
 

@@ -23,7 +23,7 @@ A [[Property]] belonging to a [[Group|group]] [[Commonality|commonly]].
 
 ### Builds towards
 
--> [[Cardinality]]
+-> [[Absolute Cardinality]]
 -> [[Cardinal Finity]]
 -> [[Cardinal Infinity]]
 

@@ -6,7 +6,7 @@ Domain:
 ---
 ### Definition
 
-An [[Cardinal Infinity|infinite]] [[Group|set]] of all [[Cardinality|cardinal values]] obtainable from an [[Identified Universe]]. 
+An [[Cardinal Infinity|infinite]] [[Group|set]] of all [[Absolute Cardinality|cardinal values]] obtainable from an [[Identified Universe]]. 
 
 ### Elaboration
 
@@ -16,7 +16,7 @@ Symbol: $\mathbb{N}$
 
 -> [[Cardinal Infinity]]
 -> [[Group]]
--> [[Cardinality]]
+-> [[Absolute Cardinality]]
 -> [[Identified Universe]]
 
 ### Builds towards

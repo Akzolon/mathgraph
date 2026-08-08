@@ -2,14 +2,15 @@
 title:
 tags:
   - TYPE/NODE
+  - DOMAIN/EPISTEMOLOGY
   - DOMAIN/ONTOLOGY
-  - STATUS/STABLE
 Domain:
+  - "[[_Epistemology]]"
   - "[[_Ontology]]"
 ---
 ### Definition
 
-An aspect of a [[Entity]]'s [[Property]]
+Any [[Entity]] or [[Virtuality]].
 
 ### Elaboration
 
@@ -18,11 +19,13 @@ An aspect of a [[Entity]]'s [[Property]]
 ### Rests upon
 
 -> [[Entity]]
--> [[Property]]
+-> [[Virtuality]]
 
 ### Builds towards
 
--
+-> [[Code Carrier]]
+-> [[Encoded Content]]
+-> [[Encoding]]
 
 ### Margin Notes
 

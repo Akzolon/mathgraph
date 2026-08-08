@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-A [[Cognitive procedure]] derived by [[Process of Conceptual Identification|the method of differentiation and integration]] retained in the mind as a [[Operation]], representing [[Causality]].
+A [[Cognitive rule]] derived by [[Process of Conceptual Identification|the method of differentiation and integration]] retained in the mind as a [[Operation]], representing [[Causality]].
 
 ### Elaboration
 
@@ -17,7 +17,7 @@ A [[Cognitive procedure]] derived by [[Process of Conceptual Identification|the 
 
 ### Rests upon
 
--> [[Cognitive procedure]]
+-> [[Cognitive rule]]
 -> [[Process of Conceptual Identification]]
 -> [[Causality]]
 

@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-A [[Necessarily Complete Dependency]] of [[Causality|causality]] used as a [[standard]] of [[Causality|causality]].
+A [[Necessarily Complete Dependency]] of [[Causality|causality]] used as a [[Standard]] of [[Causality|causality]].
 
 ### Elaboration
 
@@ -24,7 +24,7 @@ A [[Necessarily Complete Dependency]] of [[Causality|causality]] used as a [[sta
 
 ### Builds towards
 
--> [[Moment]]
+-> [[Events]]
 
 ### Margin Notes
 

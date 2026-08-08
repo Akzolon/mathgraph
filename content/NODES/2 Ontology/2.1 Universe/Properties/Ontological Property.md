@@ -3,13 +3,13 @@ title:
 tags:
   - TYPE/NODE
   - DOMAIN/ONTOLOGY
-  - STATUS/ROUGH
+  - STATUS/STABLE
 Domain:
   - "[[_Ontology]]"
 ---
 ### Definition
 
-An aspect of an [[Entity|entity's]] [[State]].
+An aspect of a [[Entity]]'s [[State]]
 
 ### Elaboration
 
@@ -22,13 +22,8 @@ An aspect of an [[Entity|entity's]] [[State]].
 
 ### Builds towards
 
--> [[Characteristic]]
-
--> [[Common property]]
--> [[Collective property]]
-
-(Indirectly)
--> [[Property-set]]
+-> [[Ostensive Standard]]
+-> [[Property]]
 
 ### Margin Notes
 

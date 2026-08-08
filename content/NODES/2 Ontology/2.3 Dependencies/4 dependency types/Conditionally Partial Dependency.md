@@ -7,7 +7,7 @@ Domain:
 ---
 ### Definition
 
-A type of [[Dependency]] in which a [[Property]] or the [[State]] of one [[Entity]] is in part [[Dependency|dependent]] on a [[Property]] or the [[State]] of another [[Entity]], but only under specified conditions.
+A type of [[Dependency]] in which a [[Property]] or the [[Structured Configuration|Configuration]] of one [[Structured Existent|Existent]] is in part [[Dependency|dependent]] on a [[Property]] or the [[Structured Configuration|Configuration]] of another [[Structured Existent|Existent]], but only under specified conditions.
 
 ### Elaboration
 
@@ -23,6 +23,9 @@ A type of [[Dependency]] in which a [[Property]] or the [[State]] of one [[Entit
 
 ### Margin Notes
 
--
+> [!warning]
+> "specified conditions" warrants being its own note!
+
+
 
 

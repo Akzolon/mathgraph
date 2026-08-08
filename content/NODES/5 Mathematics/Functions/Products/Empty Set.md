@@ -12,7 +12,7 @@ A [[Product of a Function]] whose [[Function]] does not yield a [[Group|set]] co
 
 Symbol: $\{\varnothing\}$
 
-[[Cardinality]] of an empty [[Group|set]] is 0.
+[[Absolute Cardinality]] of an empty [[Group|set]] is 0.
 
 ### Rests upon
 

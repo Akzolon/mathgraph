@@ -11,7 +11,7 @@ Domain:
 ---
 ### Definition
 
-An [[Entity|object]] of [[Perception]].
+An [[Entity|object]] of [[Sensory Perception]].
 
 ### Elaboration
 
@@ -27,9 +27,14 @@ An [[Entity|object]] of [[Perception]].
 -> [[Process of Differentiation]]
 -> [[Process of Conceptual Identification]]
 
+-> [[Ostensive Standard]]
+
 ### Margin Notes
 
--
+
+> [!warning]
+> A very WEIRD definition. "A perceived entity"
+
 
 
 

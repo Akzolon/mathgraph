@@ -9,15 +9,16 @@ Domain:
 ---
 ### Definition
 
-A [[Standard]] of [[Process of Integration|Integration]].
+A [[Standard]] of [[Process of Integration|Integration]]
 
 ### Elaboration
 
--
+[[Conceptual Common Denominator versus Conceptual Distinguishing Factor]]
 
 ### Rests upon
 
 -> [[Standard]]
+-> [[Entity]]
 
 ### Builds towards
 

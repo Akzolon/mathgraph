@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-The particularity of an [[Existence|Existing]] [[Entity|Something]].
+The particularity of an [[Existence|Existing]] Something.
 
 ### Elaboration
 

@@ -2,14 +2,15 @@
 title:
 tags:
   - TYPE/NODE
+  - DOMAIN/EPISTEMOLOGY
   - DOMAIN/ONTOLOGY
-  - STATUS/STABLE
 Domain:
   - "[[_Ontology]]"
+  - "[[_Epistemology]]"
 ---
 ### Definition
 
-The [[Structure]] of an [[Entity]].
+Any [[State]] or [[Schema]].
 
 ### Elaboration
 
@@ -17,15 +18,11 @@ The [[Structure]] of an [[Entity]].
 
 ### Rests upon
 
--> [[Entity]]
--> [[Structure]]
+-
 
 ### Builds towards
 
--> [[Moment]]
--> [[Time]]
-
--> [[Ontological Property]]
+-
 
 ### Margin Notes
 

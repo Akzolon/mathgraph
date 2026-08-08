@@ -6,7 +6,7 @@ Domain:
 ---
 ### Definition
 
-A [[Common property|common property]] of a [[Group|set]] which describes the [[boundedness]] of a [[Group|set's]] [[Cardinality]].
+A [[Common property|common property]] of a [[Group|set]] which describes the [[boundedness]] of a [[Group|set's]] [[Absolute Cardinality]].
 
 ### Elaboration
 
@@ -24,7 +24,7 @@ Therefore, it is finite.
 -> [[Common property]]
 -> [[Group]]
 -> [[boundedness]]
--> [[Cardinality]]
+-> [[Absolute Cardinality]]
 
 ### Builds towards
 

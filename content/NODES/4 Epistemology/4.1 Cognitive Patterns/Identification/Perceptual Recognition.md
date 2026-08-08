@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-[[Reaction|Reactive]] and passive distinguishment of an [[Entity|existent's]] [[State]], held in fact through [[Tropism|goal-orinted behaviour.]]
+A [[Reaction|reactive]] [[Cognitive process]] in which the [[Encoding]] of an [[Entity]]’s [[State]] determines a differentiated response to it.
 
 ### Elaboration
 
@@ -18,9 +18,10 @@ Domain:
 ### Rests upon
 
 -> [[Reaction]]
+-> [[Encoding]]
 -> [[Entity]]
 -> [[State]]
--> [[Tropism]]
+
 
 ### Builds towards
 
@@ -31,9 +32,7 @@ Domain:
 
 ### Margin Notes
 
-
-> [!Question]
-> Needs more info on animals cognition
+-
 
 
 

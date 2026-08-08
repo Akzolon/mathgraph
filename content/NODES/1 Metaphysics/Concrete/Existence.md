@@ -9,11 +9,11 @@ Domain:
 ---
 ### Definition
 
-The reality of a [[Entity|Something]].
+The reality of a Something.
 
 ### Elaboration
 
-The fact that there is something.
+The fact that there is something and that therefore, that something exists.
 
 [[On the Trio of Existence, Identity and Structure]]
 
@@ -28,7 +28,7 @@ The most general and ostensive concept. The starting point of everything.
 
 -> [[The Law of Excluded Middle]]
 
--> [[Entity]]
+
 
 ### Margin Notes
 

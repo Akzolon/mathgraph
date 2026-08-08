@@ -6,7 +6,7 @@ Domain:
 ---
 ### Definition
 
-An [[Cardinal Infinity|infinite]] [[Group|set]] of all [[Cardinality|cardinal values]] obtainable from an [[Process of Conceptual Identification|identified]] [[Group|set]]. 
+An [[Cardinal Infinity|infinite]] [[Group|set]] of all [[Absolute Cardinality|cardinal values]] obtainable from an [[Process of Conceptual Identification|identified]] [[Group|set]]. 
 
 ### Elaboration
 
@@ -16,7 +16,7 @@ Symbol: $\mathbb{W}$
 
 -> [[Cardinal Infinity]]
 -> [[Group]]
--> [[Cardinality]]
+-> [[Absolute Cardinality]]
 -> [[Process of Conceptual Identification]]
 
 ### Builds towards
