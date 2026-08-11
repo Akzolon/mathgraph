@@ -12,15 +12,6 @@ A creation or a disillusion of a [[Dependency]].
 
 -
 
-### Rests upon
-
--
-
-### Builds towards
-
--> [[Causality]]
--> [[Causal event cycle]]
-
 ### Margin Notes
 
 -

@@ -12,17 +12,6 @@ An [[Cardinal Infinity|infinite]] [[Group|set]] of all [[Absolute Cardinality|ca
 
 Symbol: $\mathbb{N}$ 
 
-### Rests upon
-
--> [[Cardinal Infinity]]
--> [[Group]]
--> [[Absolute Cardinality]]
--> [[Identified Universe]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

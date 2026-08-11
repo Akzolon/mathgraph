@@ -17,18 +17,6 @@ An [[Entity|object]] of [[Sensory Perception]].
 
 -
 
-### Rests upon
-
--> [[Entity]]
--> [[Perception]]
-
-### Builds towards
-
--> [[Process of Differentiation]]
--> [[Process of Conceptual Identification]]
-
--> [[Ostensive Standard]]
-
 ### Margin Notes
 
 

@@ -15,19 +15,6 @@ A [[Concept]] or a [[Group|set]] which is contained in an [[codomain|output]] of
 
 -
 
-### Rests upon
-
--> [[Concept]] / [[Group]]
--> [[Function]] 
--> [[Operation]]
--> [[Codomain]]
-
-### Builds towards
-
--> [[Blank Concept]]
--> [[Empty Set]]
--> [[Unit]]
-
 ### Margin Notes
 
 -

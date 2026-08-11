@@ -15,20 +15,6 @@ A [[Property]] belonging to a [[Group|group]] [[Commonality|commonly]].
 
 -
 
-### Rests upon
-
--> [[Property]]
--> [[Group]]
--> [[Commonality]]
-
-### Builds towards
-
--> [[Absolute Cardinality]]
--> [[Cardinal Finity]]
--> [[Cardinal Infinity]]
-
--> [[Concept]]
-
 ### Margin Notes
 
 -

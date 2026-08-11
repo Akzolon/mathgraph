@@ -1,5 +1,5 @@
 ---
-title: Axiom of Existence
+title:
 tags:
   - TYPE/NODE
   - STATUS/ROUGH

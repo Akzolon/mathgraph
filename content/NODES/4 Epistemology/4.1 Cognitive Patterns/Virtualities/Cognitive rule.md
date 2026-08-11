@@ -17,18 +17,6 @@ A [[Virtuality]] whose [[Events]] [[Abstraction|classify]], [[Relation|compare]]
 
 -
 
-### Rests upon
-
--> [[Virtuality]]
--> [[Percept]]
--> [[Virtuality]]
-
-### Builds towards
-
-[[Abstraction]] (Classification)
-[[Relation]] (Comparison) 
-[[Function]] (Transformation)
-
 ### Margin Notes
 
 > [!Question]

@@ -12,15 +12,6 @@ The [[Structure]] of a [[Virtuality]]
 
 -
 
-### Rests upon
-
--> [[Structure]]
--> [[Virtuality]]
-
-### Builds towards
-
--> [[Structural Property]]
-
 ### Margin Notes
 
 

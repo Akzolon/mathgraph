@@ -17,19 +17,6 @@ Domain:
 
 -
 
-### Rests upon
-
--> [[Structured Existent]]
--> [[Structured Configuration]]
--> [[Property]]
--> [[Structure]]
--> [[Encoding]]
-
-### Builds towards
-
--> [[Code]]
--> [[Code Carrier]]
-
 ### Margin Notes
 
 -

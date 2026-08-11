@@ -19,18 +19,6 @@ It's [[Absolute Cardinality]] is [[unboundedness|unbound]].
 
 Therefore, it is infinite.
 
-### Rests upon
-
--> [[Common property]]
--> [[Group]]
--> [[unboundedness]]
--> [[Absolute Cardinality]]
-
-### Builds towards
-
--> [[Natural Numbers]]
--> [[Whole Numbers]]
-
 ### Margin Notes
 
 -

@@ -12,14 +12,6 @@ A type of [[Dependency]] in which a [[Property]] or the [[Structured Configurati
 
 -
 
-### Rests upon
-
--> [[Dependency]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 

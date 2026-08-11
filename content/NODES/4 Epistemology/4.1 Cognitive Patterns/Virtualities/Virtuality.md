@@ -17,23 +17,6 @@ A [[causal event cycle]] hosted by the [[State]] of one or more [[Entity|entetie
 
 -
 
-### Rests upon
-
--> [[Causal event cycle]]
--> [[State]]
--> [[Entity]]
--> [[Events]]
--> [[Encoding]]
-
-### Builds towards
-
--> [[Perceptual Recognition]]
--> [[Process of Conceptual Identification]]
--> [[Cognitive rule]]
-
--> [[Schema]]
--> [[Structured Existent]]
-
 ### Margin Notes
 
 -

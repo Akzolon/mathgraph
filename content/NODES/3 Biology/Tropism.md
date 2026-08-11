@@ -15,14 +15,6 @@ Goal-oriented behaviour
 
 -
 
-### Rests upon
-
--
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 > [!warning]

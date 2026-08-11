@@ -6,27 +6,11 @@ Domain:
 ---
 ### Definition
 
-[[Structured Existent|Existents]], [[Structured Configuration|Configurations]], [[Property|Properties]] or arbitrary [[Structure|structural]] patterns by which you [[Process of Differentiation|differentiate]] others against.
+[[Structured Existent|An Existent]], [[Structured Configuration|Configuration]], [[Property]] or arbitrary [[Structure|structural]] pattern [[Necessarily Complete Dependency|necessarily and completely determining]] the [[Structured Existent|Existents]], [[Structured Configuration|Configurations]], [[Property|Properties]] or arbitrary [[Structure|structural]] patterns relative to it.
 
 ### Elaboration
 
--
-
-### Rests upon
-
--> [[Structured Existent]] / [[Structured Configuration]] / [[Property]] / [[Structure]]
--> [[Process of Differentiation]]
-
-### Builds towards
-
--> [[Conceptual Common Denominator]]
--> [[Conceptual Distinguishing Factor]]
-
--> [[Conceptual Standard]]
--> [[Ostensive Standard]]
-
--> [[Time]]
--> [[Space]]
+-(The Element of Necessary and Complete Determination)
 
 ### Margin Notes
 

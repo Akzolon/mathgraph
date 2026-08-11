@@ -9,28 +9,11 @@ Domain:
 ---
 ### Definition
 
-The [[Action|purposeful]] [[Cognitive process]] of identifying [[Percept|a percept]], [[Abstraction|an abstraction]], [[Relation|a relation]] or [[Function|a function]] by [[Process of Differentiation|differentiating]] relevant [[Property|aspects of identity]], [[Standard-omission|omitting their particular standards]], and [[Process of Integration|integrating]] the resulting [[Virtuality|virtualities]] into a [[Cognitive rule]] according to the [[Conceptual Common Denominator]].
+The [[Action|purposeful]] [[Cognitive process]] of identifying [[Percept|a percept]], [[Abstraction|an abstraction]], [[Relation|a relation]] or [[Function|a function]] by [[Process of Differentiation|differentiating]] relevant [[Property|aspects of identity]], [[Standard-omission|omitting their particular standards]], and [[Process of Integration|integrating]] the resulting [[Virtuality|virtualities]] into a [[Cognitive rule]] according to the [[Conceptual Common Denominator (Genus)]].
 
 ### Elaboration
 
 -
-
-### Rests upon
-
--> [[Action]]
--> [[Cognitive process]]
--> [[Percept]] / [[Abstraction]], [[Relation]], [[Function]]
--> [[Process of Differentiation]]
--> [[Property]]
--> [[Standard-omission]]
--> [[Process of Integration]]
--> [[Virtuality]]
--> [[Cognitive rule]]
--> [[Conceptual Common Denominator]]
-
-### Builds towards
-
--> [[Cognitive rule]]
 
 ### Margin Notes
 

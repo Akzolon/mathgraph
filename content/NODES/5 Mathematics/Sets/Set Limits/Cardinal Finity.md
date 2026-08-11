@@ -10,28 +10,7 @@ A [[Common property|common property]] of a [[Group|set]] which describes the [[b
 
 ### Elaboration
 
-Take an example [[Group|set]]:
-
-$\{Dog, Cat, Mouse\}$
-
-It contains 3 [[Entity|elements]].
-
-
-Therefore, it is finite.
-
-### Rests upon
-
--> [[Common property]]
--> [[Group]]
--> [[boundedness]]
--> [[Absolute Cardinality]]
-
-### Builds towards
-
--> [[Identified Universe]]
-
--> [[Ostensive Numbers]]
--> [[Set Numbers]]
+-
 
 ### Margin Notes
 

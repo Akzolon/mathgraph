@@ -17,18 +17,6 @@ A [[Virtuality]] whose [[Events]] [[Encoding|encode]], [[Perceptual Recognition|
 
 -
 
-### Rests upon
-
--> [[Virtuality]]
--> [[Percept]]
--> [[Virtuality]]
-
-### Builds towards
-
--> [[Encoding]]
--> [[Perceptual Recognition]]
--> [[Process of Conceptual Identification]]
-
 ### Margin Notes
 
 > [!warning]

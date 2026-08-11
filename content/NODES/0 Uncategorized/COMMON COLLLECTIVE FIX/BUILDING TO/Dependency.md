@@ -15,28 +15,6 @@ A [[Collective property]] of two or more [[Structured Existent|Existents]] where
 
 [[On dependency and it's 4 types]]
 
-### Rests upon
-
--> [[Collective property]]
--> [[Entity]]
--> [[Property]]
--> [[State]]
--> [[Connection]]
-
-### Builds towards
-
--> [[Interaction]]
--> [[Causality]]
-
-(Cognitive Representation)
--> [[Relation]]
-
-(Subtypes)
--> [[Necessarily Complete Dependency]]
--> [[Conditionally Complete Dependency]]
--> [[Necessarily Partial Dependency]]
--> [[Conditionally Partial Dependency]]
-
 ### Margin Notes
 
 -

@@ -15,17 +15,6 @@ An [[Process of Conceptual Identification|identified]] [[Group|set]] of [[Struct
 
 -
 
-### Rests upon
-
--> [[Process of Conceptual Identification]]
--> [[Group]]
--> [[Structural Property]]
--> [[Cognitive rule]] (look at margin for issues)
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

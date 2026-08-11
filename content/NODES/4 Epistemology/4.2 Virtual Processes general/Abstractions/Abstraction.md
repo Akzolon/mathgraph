@@ -9,22 +9,11 @@ Domain:
 ---
 ### Definition
 
-A [[Cognitive rule]] derived by [[Process of Conceptual Identification|the method of differentiation and integration]] retained in the mind as a [[Group|category]] or a [[Concept]] identifying an existing [[State]].
+A [[Cognitive rule]] derived by [[Process of Conceptual Identification|the method of differentiation and integration]] retained in the mind as a [[Group|category]] or a [[Concept]] identifying an existing [[Structured Configuration|Configuration]].
 
 ### Elaboration
 
 -
-
-### Rests upon
-
--> [[Cognitive rule]]
--> [[Process of Conceptual Identification]]
--> [[State]]
-
-### Builds towards
-
--> [[Group]]
--> [[Concept]]
 
 ### Margin Notes
 

@@ -15,16 +15,6 @@ An aspect of a [[Cognitive rule]]'s [[Schema]]
 
 -
 
-### Rests upon
-
--> [[Cognitive rule]]
--> [[Schema]]
-
-### Builds towards
-
--> [[Conceptual Standard]]
--> [[Property]]
-
 ### Margin Notes
 
 

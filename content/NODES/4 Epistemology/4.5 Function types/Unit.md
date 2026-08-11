@@ -12,17 +12,6 @@ A [[Product of a Function|product]] of [[Process of Differentiation|differentiat
 
 -
 
-### Rests upon
-
--> [[Product of a Function]]
--> [[Process of Differentiation]]
--> [[Group]]
-
-### Builds towards
-
--> [[Collectivity]]
--> [[Commonality]]
-
 ### Margin Notes
 
 -

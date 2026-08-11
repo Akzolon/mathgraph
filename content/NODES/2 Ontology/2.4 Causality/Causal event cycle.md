@@ -9,24 +9,11 @@ Domain:
 ---
 ### Definition
 
-A sequence of [[Events]] in which [[Interaction|interacting]] [[Entity|entities]], functioning according to their [[State|independent]] and/or [[Dependency|dependent]] [[State|states]], result in modified [[State|states]].
+A sequence of [[Events]] in which [[Interaction|interacting]] [[Structured Existent|Existents]], functioning according to their [[State|independent]] and/or [[Dependency|dependent]] [[Structured Configuration|Configurations]], result in modified [[Structured Configuration|Configurations]].
 
 ### Elaboration
 
 -
-
-### Rests upon
-
--> [[Events]]
--> [[Interaction]]
--> [[Entity]]
--> [[Independency]]
--> [[Dependency]]
--> [[State]]
-
-### Builds towards
-
--> [[Events]]
 
 ### Margin Notes
 

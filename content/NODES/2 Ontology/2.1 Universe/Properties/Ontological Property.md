@@ -15,16 +15,6 @@ An aspect of a [[Entity]]'s [[State]]
 
 -
 
-### Rests upon
-
--> [[Entity]]
--> [[State]]
-
-### Builds towards
-
--> [[Ostensive Standard]]
--> [[Property]]
-
 ### Margin Notes
 
 -

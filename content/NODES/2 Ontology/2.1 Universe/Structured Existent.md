@@ -16,17 +16,6 @@ Any [[Entity]] or [[Virtuality]].
 
 -
 
-### Rests upon
-
--> [[Entity]]
--> [[Virtuality]]
-
-### Builds towards
-
--> [[Code Carrier]]
--> [[Encoded Content]]
--> [[Encoding]]
-
 ### Margin Notes
 
 -

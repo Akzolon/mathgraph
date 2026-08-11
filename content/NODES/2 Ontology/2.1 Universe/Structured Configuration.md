@@ -16,14 +16,6 @@ Any [[State]] or [[Schema]].
 
 -
 
-### Rests upon
-
--
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

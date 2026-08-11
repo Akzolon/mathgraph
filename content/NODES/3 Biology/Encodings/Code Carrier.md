@@ -17,16 +17,6 @@ The [[Structured Existent]] whose distinctions are [[Necessarily Complete Depend
 
 -
 
-### Rests upon
-
--> [[Structured Existent]]
--> [[Structured Configuration]]
--> [[Encoded Content]]
-
-### Builds towards
-
--> [[Encoding]]
-
 ### Margin Notes
 
 

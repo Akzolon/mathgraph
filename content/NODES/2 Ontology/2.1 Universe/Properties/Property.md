@@ -15,23 +15,6 @@ Any [[Ontological Property|Ontological]] or [[Structural Property]]
 
 -
 
-### Rests upon
-
--> [[Structural Property]]
--> [[Ontological Property]]
-
-### Builds towards
-
--> [[Ontological Property]]
--> [[Structural Property]]
-
--> [[Common property]]
--> [[Collective property]]
-
-(Indirectly)
--> [[Ontological Property-set]]
--> [[Structural Property-set]]
-
 ### Margin Notes
 
 -

@@ -15,22 +15,6 @@ A [[Property]] belonging to a [[Group|group]] [[Collectivity|collectively]].
 
 [[On the ontology of collective properties]]
 
-### Rests upon
-
--> [[Property]]
--> [[Group]]
--> [[Collectivity]]
-
-### Builds towards
-
--> [[Group]] (?)
-
--> [[Compatibility]]
--> [[Incompatibility]]
--> [[Dependency]]
--> [[Independency]]
--> [[Connection]]
-
 ### Margin Notes
 
 

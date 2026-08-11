@@ -9,25 +9,11 @@ Domain:
 ---
 ### Definition
 
-A type of [[Process of Integration|integration]] where a [[Conceptual Common Denominator|standard of integration]] applies to the [[Group|set]] of the [[Unit|units]] as a single whole. 
+A type of [[Process of Integration|integration]] where a [[Conceptual Common Denominator (Genus)|standard of integration]] applies to the [[Group|set]] of the [[Unit|units]] as a single whole. 
 
 ### Elaboration
 
--
-
-### Rests upon
-
--> [[Process of Integration]]
--> [[Conceptual Common Denominator]]
--> [[Unit]]
--> [[Group]]
-
-### Builds towards
-
--> [[Common property]]
-
--> [[Subset]]
--> [[Superset]]
+-"When taken as a whole"
 
 ### Margin Notes
 
@@ -35,7 +21,4 @@ A type of [[Process of Integration|integration]] where a [[Conceptual Common Den
 
 
 
-
-> [!warning]
-> Missing Integration
 

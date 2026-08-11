@@ -9,20 +9,11 @@ Domain:
 ---
 ### Definition
 
-A single [[State]] of the [[Universe]]
+A single [[Structured Configuration|Configuration]] of the [[Universe]]
 
 ### Elaboration
 
 [[On why a moment doesn't need time and why events do]]
-
-### Rests upon
-
--> [[State]]
--> [[Universe]]
-
-### Builds towards
-
--> [[Events]]
 
 ### Margin Notes
 

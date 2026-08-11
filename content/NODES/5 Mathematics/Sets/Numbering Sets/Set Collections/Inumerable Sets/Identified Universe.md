@@ -10,20 +10,7 @@ A [[Cardinal Finity|finite]] [[Group|set]] of all [[Perceptual Recognition|impli
 
 ### Elaboration
 
-Symbol: $\mathcal I$
-
-### Rests upon
-
--> [[Cardinal Finity]]
--> [[Group]]
--> [[Perceptual Recognition]] / [[Process of Conceptual Identification]]
-
-### Builds towards
-
--> [[Blank Concept]]
-
--> [[Natural Numbers]]
--> [[Ostensive Numbers]]
+Symbol: $\mathcal U$
 
 ### Margin Notes
 

@@ -13,22 +13,7 @@ An [[Existence|existent]] possessing a [[Identity|particular]] [[Structure]].
 
 ### Elaboration
 
--> [[]]
-
-### Rests upon
-
 -
-
-### Builds towards
-
--> [[Universe]]
--> [[Percept]]
-
--> [[Structured Existent]]
-
-(Epistemologically)
-~> [[Group]]
-~> [[Concept]]
 
 ### Margin Notes
 

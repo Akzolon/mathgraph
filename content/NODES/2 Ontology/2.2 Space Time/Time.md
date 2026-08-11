@@ -15,17 +15,6 @@ A [[Necessarily Complete Dependency]] of [[Causality|causality]] used as a [[Sta
 
 [[On why time is a dependency of causality]]
 
-### Rests upon
-
--> [[Necessarily Complete Dependency]]
--> [[Causality|Causality]]
-
--> [[Standard]]
-
-### Builds towards
-
--> [[Events]]
-
 ### Margin Notes
 
 -

@@ -9,22 +9,11 @@ Domain:
 ---
 ### Definition
 
-A [[Collective property]] of two or more [[Entity|entities]] whereby there exists a combination of their respective [[State|states]] which is [[Incompatibility|incompatible]].
+A [[Collective property]] of two or more [[Structured Existent|Existents]] whereby there exists a combination of their respective [[Structured Configuration|Configurations]] which is [[Incompatibility|incompatible]].
 
 ### Elaboration
 
 [[On why is Independency and Compatibility contextual]]
-
-### Rests upon
-
--> [[Collective property]]
--> [[Entity]]
--> [[State]]
--> [[Incompatibility]]
-
-### Builds towards
-
--
 
 ### Margin Notes
 

@@ -10,18 +10,7 @@ A [[Cardinal Finity|finite]] [[Group|set]] of all [[Absolute Cardinality|cardina
 
 ### Elaboration
 
-Symbol: $\mathbb{N}_\mathcal I$
-
-### Rests upon
-
--> [[Cardinal Finity]]
--> [[Group]]
--> [[Absolute Cardinality]]
--> [[Identified Universe]]
-
-### Builds towards
-
--
+Symbol: $\mathbb{N}_\mathcal U$
 
 ### Margin Notes
 

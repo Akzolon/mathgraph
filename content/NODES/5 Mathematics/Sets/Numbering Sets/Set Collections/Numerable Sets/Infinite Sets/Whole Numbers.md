@@ -12,17 +12,6 @@ An [[Cardinal Infinity|infinite]] [[Group|set]] of all [[Absolute Cardinality|ca
 
 Symbol: $\mathbb{W}$ 
 
-### Rests upon
-
--> [[Cardinal Infinity]]
--> [[Group]]
--> [[Absolute Cardinality]]
--> [[Process of Conceptual Identification]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

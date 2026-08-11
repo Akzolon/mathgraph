@@ -9,24 +9,15 @@ Domain:
 ---
 ### Definition
 
-The totality of all [[Entity|entities]].
+All of [[Entity|entities]].
 
 ### Elaboration
 
 -
 
-### Rests upon
-
--> [[Entity]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
-> [!warning] 
-> The use of the word "Totality" here is questionable. "Every entity" implies the question "By what standard is 'Every' considered?". Which then pushes this into Epistemology.
+
 
 
 

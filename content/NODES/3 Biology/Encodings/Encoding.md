@@ -17,19 +17,6 @@ A [[Dependency]] in which differences among [[Structured Existent|Existents]], [
 
 -(Encoding is distinction preservation.)
 
-### Rests upon
-
--> [[Dependency]]
--> [[Structured Existent]]
--> [[Structured Configuration]]
--> [[Property]]
--> [[Structure]]
--> [[Code Carrier]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

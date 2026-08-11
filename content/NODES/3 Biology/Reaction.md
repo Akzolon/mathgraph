@@ -15,14 +15,6 @@ Reflexive behaviour
 
 -
 
-### Rests upon
-
--
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 > [!warning]

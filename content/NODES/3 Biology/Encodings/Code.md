@@ -17,15 +17,6 @@ The set of correspondences by which particular differences in [[Encoded Content]
 
 -
 
-### Rests upon
-
--> [[Encoded Content]]
--> [[Code Carrier]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

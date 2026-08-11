@@ -9,7 +9,7 @@ Domain:
 ---
 ### Definition
 
-A [[Relation]] of an [[Entity]] belonging in a [[Group|set]]. 
+A [[Relation]] of an [[Structured Existent|Existent]] belonging in a [[Group|set]]. 
 
 ### Elaboration
 
@@ -18,16 +18,6 @@ A [[Relation]] of an [[Entity]] belonging in a [[Group|set]].
 $x\in\{x,y,z\}$ means:
 
 x is a member of an "x,y,z" set.
-
-### Rests upon
-
--> [[Relation]]
--> [[Entity]]
--> [[Group]]
-
-### Builds towards
-
--
 
 ### Margin Notes
 

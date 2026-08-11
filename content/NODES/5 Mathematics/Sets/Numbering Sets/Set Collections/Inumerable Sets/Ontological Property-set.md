@@ -15,17 +15,6 @@ An [[Process of Conceptual Identification|identified]] [[Group|set]] of [[Ontolo
 
 -
 
-### Rests upon
-
--> [[Process of Conceptual Identification]]
--> [[Group]]
--> [[Ontological Property]]
--> [[Entity]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

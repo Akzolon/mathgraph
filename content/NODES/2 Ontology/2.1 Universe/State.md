@@ -15,18 +15,6 @@ The [[Structure]] of an [[Entity]].
 
 -
 
-### Rests upon
-
--> [[Entity]]
--> [[Structure]]
-
-### Builds towards
-
--> [[Moment]]
--> [[Time]]
-
--> [[Ontological Property]]
-
 ### Margin Notes
 
 -

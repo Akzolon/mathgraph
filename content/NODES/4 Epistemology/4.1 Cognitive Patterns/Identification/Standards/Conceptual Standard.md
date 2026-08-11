@@ -13,15 +13,6 @@ A [[Cognitive rule]] or a [[Structural Property]] used as a [[Standard]].
 
 -
 
-### Rests upon
-
--> [[Cognitive rule]] / [[Structural Property]]
--> [[Standard]]
-
-### Builds towards
-
--> [[Process of Differentiation]]
-
 ### Margin Notes
 
 -

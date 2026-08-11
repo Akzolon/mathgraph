@@ -15,16 +15,6 @@ A [[Cognitive rule]] derived by [[Process of Conceptual Identification|the metho
 
 -
 
-### Rests upon
-
--> [[Cognitive rule]]
--> [[Process of Conceptual Identification]]
--> [[Causality]]
-
-### Builds towards
-
--> [[Operation]]
-
 ### Margin Notes
 
 -

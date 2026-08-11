@@ -13,15 +13,6 @@ A [[Percept]] or an [[Ontological Property]] used as a [[Standard]]
 
 -
 
-### Rests upon
-
--> [[Percept]] / [[Ontological Property]]
--> [[Standard]]
-
-### Builds towards
-
--> [[Process of Differentiation]]
-
 ### Margin Notes
 
 -

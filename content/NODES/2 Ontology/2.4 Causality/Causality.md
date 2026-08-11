@@ -9,28 +9,11 @@ Domain:
 ---
 ### Definition
 
-A sequence in which one [[Entity]] alters its own [[State]] or the [[State]] of another [[Dependency|dependent]] entity through [[Interaction]], according to their respective [[State|states]].
+A sequence in which one [[Structured Existent|Existent]] alters its own [[Structured Configuration|Configuration]] or the [[Structured Configuration|Configuration]] of another [[Dependency|dependent]] [[Structured Existent|Existent]] through [[Interaction]], according to their respective [[Structured Configuration|Configurations]].
 
 ### Elaboration
 
 -
-
-### Rests upon
-
--> [[Entity]]
--> [[State]]
--> [[Dependency]]
--> [[Interaction]]
-
-### Builds towards
-
--> [[Events]]
-
-(Standard of)
--> [[Time]]
-
-(Cognitive Representation)
--> [[Function]]
 
 ### Margin Notes
 

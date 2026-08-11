@@ -9,23 +9,11 @@ Domain:
 ---
 ### Definition
 
-A [[Abstraction|mental integration]] made of [[Entity|objects/elements]] according to their shared [[Common property]].
+A [[Abstraction|mental integration]] made of [[Structured Existent|objects/elements]] according to their shared [[Common property]].
 
 ### Elaboration
 
 -
-
-### Rests upon
-
--> [[Abstraction]]
--> [[Entity]]
--> [[Common property]]
-
-### Builds towards
-
--> [[Blank Concept]]
-
--> [[Product of a Function]]
 
 ### Margin Notes
 

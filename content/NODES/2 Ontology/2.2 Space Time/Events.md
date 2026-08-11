@@ -15,19 +15,9 @@ A [[Causality|causal]] sequence of [[Moment|moments]] happening in [[Time]].
 
 [[On why a moment doesn't need time and why events do]]
 
-### Rests upon
-
--> [[Moment]]
--> [[Causality|Causality]]
--> [[Time]]
-
-### Builds towards
-
--> [[Causal event cycle]]
-
 ### Margin Notes
 
-
+-
 
 
 

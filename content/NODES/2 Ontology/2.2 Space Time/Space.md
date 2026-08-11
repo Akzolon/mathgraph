@@ -15,17 +15,6 @@ A [[Necessarily Complete Dependency]] of [[multiplicity]] used as a [[Standard]]
 
 -
 
-### Rests upon
-
--> [[multiplicity]]
--> [[Necessarily Complete Dependency]]
-
--> [[Standard]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

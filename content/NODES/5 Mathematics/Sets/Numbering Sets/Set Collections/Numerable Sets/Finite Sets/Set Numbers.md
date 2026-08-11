@@ -12,17 +12,6 @@ A [[Cardinal Finity|finite]] [[Group|set]] of all [[Absolute Cardinality|cardina
 
 Symbol: $\mathbb{W}_\mathcal I$
 
-### Rests upon
-
--> [[Cardinal Finity]]
--> [[Group]]
--> [[Absolute Cardinality]]
--> [[Process of Conceptual Identification]]
-
-### Builds towards
-
--
-
 ### Margin Notes
 
 -

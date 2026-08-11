@@ -15,15 +15,6 @@ The [[Action|act]] of [[Process of Differentiation|differentiation]]
 
 -
 
-### Rests upon
-
--> [[Action]]
--> [[Process of Differentiation]]
-
-### Builds towards
-
--> [[Process of Conceptual Identification]]
-
 ### Margin Notes
 
 -
